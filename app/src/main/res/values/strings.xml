@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShapeTest</string>
+
+    <string name="tab_squares">Squares</string>
+    <string name="tab_circles">Circles</string>
+    <string name="tab_triangles">Triangles</string>
+    <string name="tab_all">All</string>
+
+</resources>
